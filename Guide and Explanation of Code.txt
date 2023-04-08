@@ -1,6 +1,6 @@
 INTRODUCTION:
 	A mini project I worked on involving A* algos. 
-	Change the ".in" input files, the simulation will appear in terminal (using "cout")
+	Change the ".in" input files to create a custom simulation, the simulation will appear in terminal (using "cout")
 
 
 GUIDE:
