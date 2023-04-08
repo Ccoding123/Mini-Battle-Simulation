@@ -1,0 +1,10 @@
+;Type Boss
+MHP 100
+HPX 100
+ATK 34
+DEF 10
+Type Beast
+MHP 15
+HPX 15
+ATK 1
+DEF 0
